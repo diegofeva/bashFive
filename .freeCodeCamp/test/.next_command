@@ -39,3 +39,6 @@ history -a
 ./questionnaire.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+QUESTION1="What's your name?"
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

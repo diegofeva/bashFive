@@ -309,3 +309,9 @@ history -a
 chmod +x bingo.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./BINGO.SH
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+./bingo.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a

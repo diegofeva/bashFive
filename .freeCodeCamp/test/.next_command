@@ -315,3 +315,9 @@ history -a
 ./bingo.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+printrnv
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+printenv
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
